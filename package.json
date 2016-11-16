@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kujon-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kujon/eslint-config-kujon-react#readme",
   "dependencies": {
-    "eslint-config-kujon": "^1.0.1",
+    "eslint-config-kujon": "^1.0.2",
     "eslint-plugin-react": "^6.7.1"
   }
 }
